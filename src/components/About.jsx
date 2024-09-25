@@ -5,7 +5,7 @@ import FounderSectionImage from "../assets/img/FounderSectionImage.avif";
 const About = () => {
   return (
     <div className="  flex flex-col gap-14">
-      <div className="flex flex-col-reverse lg:flex-row items-center gap-8 lg:px-32 px-7 md:px-7 xl:px-32  lg:pt-16 lg:gap-20">
+      <div className="flex flex-col-reverse lg:flex-row items-center gap-8 lg:px-32 px-7 md:px-7 xl:px-32  lg:pt-16 md:gap-6 lg:gap-20">
           <div className=" w-full lg:w-3/4 space-y-4">
             <h1 className=" text-5xl font-semibold text-center lg:text-start">
               About Us
@@ -36,7 +36,7 @@ const About = () => {
             <img className=" rounded-lg" src="https://img.freepik.com/free-photo/girl-reading-book-daycare_23-2147663339.jpg?t=st=1726912453~exp=1726916053~hmac=e726bb38d9a23e4557edc43b9db1d4a0ad72c90e0d61609daf9bcebee8625b9b&w=740" alt="img" />
           </div>
       </div>
-      <div className="flex flex-col-reverse lg:flex-row items-center gap-12 lg:px-32  px-7 md:px-7 xl:px-32 pt-14 lg:pt-2 pb-14 lg:gap-20">
+      <div className="flex flex-col-reverse lg:flex-row items-center gap-12 lg:px-32  px-7 md:px-7 xl:px-32 pt-14 lg:pt-2 pb-14 md:gap-6 lg:gap-20">
                 <div className=" w-full lg:w-3/4 space-y-4 ">
                         <h1 className=" text-5xl font-semibold text-center lg:text-start ">
                           Founder & Owner
