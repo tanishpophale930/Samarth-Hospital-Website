@@ -36,9 +36,13 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <p className=" text-center py-4">
+        <p className=" text-center pt-4 pb-1">
           &#9426; <span className="text-hoverColor font-medium">Samarth-Clinic</span>  | All
           rights reserved
+        </p>
+
+        <p className="text-center pb-4">
+          Developed By  <span className="text-hoverColor font-medium">@Padmanabh</span>
         </p>
       </div>
     </div>
