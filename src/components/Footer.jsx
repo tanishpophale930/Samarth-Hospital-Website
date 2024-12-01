@@ -41,9 +41,11 @@ const Footer = () => {
           rights reserved
         </p>
 
+        /*
         <p className="text-center pb-4">
           Developed By  <span className="text-hoverColor font-medium">@Padmanabh</span>
         </p>
+        */
       </div>
     </div>
   );
